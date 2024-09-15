@@ -14,6 +14,7 @@ function choose(phone){
     else if(phone ==4){
         window.open(input.value ," ", "width=1920, heigth=1080")
     }
+    
 }
 
 
